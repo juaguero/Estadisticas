@@ -1,0 +1,13 @@
+C:\Users\JuanAG\Desktop\prog-en-c-Estadistica-por-vocal-main\estadistica\bin\Debug\netcoreapp3.1\estadistica.exe
+C:\Users\JuanAG\Desktop\prog-en-c-Estadistica-por-vocal-main\estadistica\bin\Debug\netcoreapp3.1\estadistica.deps.json
+C:\Users\JuanAG\Desktop\prog-en-c-Estadistica-por-vocal-main\estadistica\bin\Debug\netcoreapp3.1\estadistica.runtimeconfig.json
+C:\Users\JuanAG\Desktop\prog-en-c-Estadistica-por-vocal-main\estadistica\bin\Debug\netcoreapp3.1\estadistica.runtimeconfig.dev.json
+C:\Users\JuanAG\Desktop\prog-en-c-Estadistica-por-vocal-main\estadistica\bin\Debug\netcoreapp3.1\estadistica.dll
+C:\Users\JuanAG\Desktop\prog-en-c-Estadistica-por-vocal-main\estadistica\bin\Debug\netcoreapp3.1\estadistica.pdb
+C:\Users\JuanAG\Desktop\prog-en-c-Estadistica-por-vocal-main\estadistica\obj\Debug\netcoreapp3.1\estadistica.csprojAssemblyReference.cache
+C:\Users\JuanAG\Desktop\prog-en-c-Estadistica-por-vocal-main\estadistica\obj\Debug\netcoreapp3.1\estadistica.AssemblyInfoInputs.cache
+C:\Users\JuanAG\Desktop\prog-en-c-Estadistica-por-vocal-main\estadistica\obj\Debug\netcoreapp3.1\estadistica.AssemblyInfo.cs
+C:\Users\JuanAG\Desktop\prog-en-c-Estadistica-por-vocal-main\estadistica\obj\Debug\netcoreapp3.1\estadistica.csproj.CoreCompileInputs.cache
+C:\Users\JuanAG\Desktop\prog-en-c-Estadistica-por-vocal-main\estadistica\obj\Debug\netcoreapp3.1\estadistica.dll
+C:\Users\JuanAG\Desktop\prog-en-c-Estadistica-por-vocal-main\estadistica\obj\Debug\netcoreapp3.1\estadistica.pdb
+C:\Users\JuanAG\Desktop\prog-en-c-Estadistica-por-vocal-main\estadistica\obj\Debug\netcoreapp3.1\estadistica.genruntimeconfig.cache
